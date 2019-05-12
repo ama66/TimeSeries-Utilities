@@ -1,2 +1,3 @@
-# Utilities for visualization , processing (Resampling, shifting,...etc), stats modeling , Forecasting and ML on timeseries in Python
+# Utilities for visualization , processing (Resampling, shifting,...etc), stats modeling , Forecasting and ML on timeseries in Python by J. Portilla
+
 
