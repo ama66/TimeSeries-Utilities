@@ -1,1 +1,2 @@
-## Utilities for visualization , stats modeling and ML on timeseries in Python
+Utilities for visualization , processing (Resampling, shifting,...etc), stats modeling and ML on timeseries in Python
+
