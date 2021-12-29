@@ -2,6 +2,7 @@ create virtual environment in pycharm or install python version 3.7 for example 
 https://www.youtube.com/watch?v=bCY4D9n3Pew
 see instructions for creating virtual environment 
 https://www.youtube.com/watch?v=APOPm01BVrk
+python -m venv path_to_project1\venv
 
 go to the directory in a terminal window (run as administrator so you don't ger permission erros) and issue the command
 C:\Users\xx\PycharmProjects\project1>venv\Scripts\activate
