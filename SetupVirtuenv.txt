@@ -1,0 +1,17 @@
+create virtual environment in pycharm or install python version 3.7 for example see instructions 
+https://www.youtube.com/watch?v=bCY4D9n3Pew
+see instructions for creating virtual environment 
+https://www.youtube.com/watch?v=APOPm01BVrk
+
+go to the directory in a terminal window (run as administrator so you don't ger permission erros) and issue the command
+C:\Users\xx\PycharmProjects\project1>venv\Scripts\activate
+(venv) C:\Users\xx\PycharmProjects\project1>
+pip install --upgrade pip
+pip install -r requirements.txt
+to see current packages/libraries 
+pip freeze
+-----------------------------
+to delete an env in windows 
+rmdir venv /s
+venv, Are you sure (Y/N)? Y
+
